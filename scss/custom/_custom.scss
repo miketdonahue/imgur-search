@@ -1,0 +1,42 @@
+// Custom Overlay
+// ================
+
+// Grid
+body {
+  margin: 20px;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+// Images
+.card {
+  display: inline-block;
+  float: left;
+  margin: 5px;
+  background-color: black;
+}
+
+img.preview {
+  height: 300px;
+  width: 300px;
+}
+
+
+// Overrides
+// =================
+
+// Align button with addon
+.input-group-btn > .btn {
+  height: 34px;
+}
+
+// Prevent div flash in Angular before data ready
+.ng-cloak {
+  display: none;
+}
