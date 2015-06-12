@@ -8,7 +8,7 @@ A way to preview videos
 Paging
 UI treatment
 Providing alternate sortings of information
-Language is programmer’s choice, We estimate 2-3 hours for the assignment. 
+Language is programmer’s choice. 
 Please include instructions for how we can run your app or include a link to view it live on the web.
 
 Imgur Search API: http://api.imgur.com/endpoints/gallery#gallery-search
